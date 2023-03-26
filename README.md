@@ -1,3 +1,3 @@
 # monsters-rolodex
 
-A simple application created using React
+A simple Rolodex application made using React.
